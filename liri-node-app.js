@@ -10,8 +10,8 @@ function twitterThis() {
    });
 
    var params = {
-       name: 'Keys Soze',
-       screen_name: 'KeysSoze',
+       name: 'NineInchPencils',
+       screen_name: 'NineInchPencils',
        exclude_replies: false,
        trim_user: true,
        count: 20
@@ -29,7 +29,4 @@ function twitterThis() {
        }
    });
 
-} //function twitterThis
-
-that is my tweet function
-let keys = require("./keys")
+} 
